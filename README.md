@@ -15,3 +15,4 @@ then load the font(s) into the project's form load
 5. **Dim fontCollection1 As PrivateFontCollection = CustomFontLoader.LoadFont("YourAppName.YourFontName.otf") 'You can use .otf or ttf file**
 6. **customFont1 = New Font(fontCollection1.Families(0), 16.2F, FontStyle.Bold)**
 7. **Label1.Font = customFont1**
+![devenv_luDaNcUHC7](https://github.com/user-attachments/assets/f55cde03-a260-4945-a804-0474d67edaa2)
