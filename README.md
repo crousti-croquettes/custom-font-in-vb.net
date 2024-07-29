@@ -16,4 +16,5 @@ then load the font(s) into the project's form load
 6. **customFont1 = New Font(fontCollection1.Families(0), 16.2F, FontStyle.Bold)**
 7. **Label1.Font = customFont1**
 
+Final result, you can see your custom font in the label text.
 ![devenv_luDaNcUHC7](https://github.com/user-attachments/assets/f55cde03-a260-4945-a804-0474d67edaa2)
